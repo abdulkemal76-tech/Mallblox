@@ -1,0 +1,6 @@
+{
+  "name": "Mallblox 3D - Mancing & Marketplace",
+  "description": "Game sandbox 3D dengan simulasi mancing di laut, obby, interaksi toko & pasar ikan, kustomisasi avatar, dan marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
